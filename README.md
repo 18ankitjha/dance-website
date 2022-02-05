@@ -12,7 +12,8 @@ npm init
 
 npm install -g nodemon(require if nodemon is not there)
 
-npm i express body-parser pug mongoose
- 
+npm i 
+
+//to run
 nodemon app.js
 ```
